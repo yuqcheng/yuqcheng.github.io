@@ -247,8 +247,8 @@ display_tags: ['single-cell genomics','machine learning','math'] # these tags wi
 
 scholar:
 
-  last_name: [Cheng]
-  first_name: [Yuqi, Yuqi*]
+  last_name: [Cheng, Cheng*]
+  first_name: [Yuqi]
 
   style: apa
   locale: en
