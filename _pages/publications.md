@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: List of all publications.
+description: List of all publications (* co-first author).
 years: [2023, 2022]
 nav: true
 nav_order: 1
