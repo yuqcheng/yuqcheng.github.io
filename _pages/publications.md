@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: 
+title: Publications
+description: List of all publications.
 years: [2022, 2023]
 nav: true
 nav_order: 1
