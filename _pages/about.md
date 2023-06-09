@@ -6,7 +6,7 @@ subtitle: <a href='https://cse.gatech.edu/'>School of Computational Science and 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: 
 
