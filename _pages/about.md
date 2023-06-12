@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://cse.gatech.edu/'>School of Computational Science and Engineering</a>. Georgia Institute of Technology
 
