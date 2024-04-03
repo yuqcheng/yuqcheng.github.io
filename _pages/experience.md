@@ -3,7 +3,7 @@ layout: page
 title: experience
 permalink: /experience/
 description: 
-nav: true
+nav: False
 nav_order: 2
 _styles: ../assets/css/timeline.css
 # display_categories: [work, fun]
