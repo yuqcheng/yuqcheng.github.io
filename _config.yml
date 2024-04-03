@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuqi Cheng (成宇琪) # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Yuqi
 last_name: Cheng
 email: ycheng430@gatech.edu
