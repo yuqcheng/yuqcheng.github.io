@@ -1,6 +1,6 @@
 ---
 layout: page
-title: experience
+title: Experience
 permalink: /experience/
 description: 
 nav: True
@@ -35,11 +35,12 @@ horizontal: false
 <li>
 	<div class="direction-r" data-toggle="modal" data-target="#gt">
 		<div class="flag-wrapper">
-			<span class="flag">Georgia Tech CSE</span>
+			<span class="flag">Georgia Tech</span>
 			<span class="time-wrapper"><span class="time">2022 - present</span></span>
 		</div>
 		<div class="desc">
-			<b>PhD student in Zhanglab</b>
+			<b>PhD student in Zhanglab</b><br>
+			School of Computational Science and Engineering
 		</div>
 	</div>
 </li>
