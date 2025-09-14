@@ -19,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm a PhD student in the [Computational Science and Engineering program](https://www.cc.gatech.edu/degree-programs/phd-computational-science-and-engineering) at Georgia Tech College of Computing, advised by [Dr. Xiuwei Zhang](https://xiuweizhang.wordpress.com/). 
 Before starting my PhD, I did my Master's degree in computational biology at [Weill Cornell Medicine](https://gradschool.weill.cornell.edu/) (’22) and my bachelor's double majored in biology and data science at China Agricultural University (’20).
 
-My research interest currently lies in the intersection of single-cell genomics/epigenetics and deep learning methods: (1) Integrating and annotating heterogeneous single-cell ATAC-seq data with deep generative models, and (2) Combining other epigenetic information (Hi-C, CNV, etc) to infer tumor cell composition.
+My research interests broadly center on the application of AI models to single-cell and spatial omics. Specifically, my current work includes (1) cell label transfer and perturbed cell detection in single-cell data and (2) predicting transcriptomic signals from histology images.
